@@ -45,21 +45,21 @@ Tópicos
 ---
 
 ### 📍 [Exercício 2 – Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)
-- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%202/min_cost_connect_points.py)  
+- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%202/1584_min_cost_to_onnect.py)  
 - 🖼️ Screenshot:  
 <img src="https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%202/1584.png" width="500"/>
 
 ---
 
 ### 📍 [Exercício 3 – Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/)
-- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%203/minimum_cost_destination.py)  
+- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%203/1928_minimum_cost _Destination.py)  
 - 🖼️ Screenshot:  
 <img src="https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%203/1928.png" width="500"/>
 
 ---
 
 ### 📍 [Exercício 4 – Critical and Pseudo-Critical Edges in MST](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
-- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%204/critical_pseudo_critical.py)  
+- 📄 [Ver código no GitHub](https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%204/1489_critical_edges.py)  
 - 🖼️ Screenshot:  
 <img src="https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%204/1489.png" width="500"/>
 
