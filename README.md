@@ -26,13 +26,14 @@ Tópicos
 
 | Número | Questão                                                                                                   | Dificuldade | Autor            |
 |--------|-----------------------------------------------------------------------------------------------------------|-------------|------------------|
-| 1      |  | Média       | Gabriel Scheidt  |
+| 1      | | Média       | Gabriel Scheidt  |
 | 2      |  | Média       | Gabriel Scheidt  |
-| 3      | | Difícil     | Gabriel Scheidt  |
+| 3      | [1928. Minimum Cost to Reach Destination in Time
+](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | Difícil     | Gabriel Scheidt  |
 | 4      | | Difícil     | Gabriel Scheidt  |
 
 ## Screenshots
-<h3><a href=""></a></h3>
+<h3><a href="https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/">1928. Minimum cost</a></h3>
 <img src="" width="500"/>
 
 
