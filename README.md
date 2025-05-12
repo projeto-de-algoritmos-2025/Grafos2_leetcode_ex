@@ -34,7 +34,7 @@ Tópicos
 
 ## Screenshots
 <h3><a href="https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/">1928. Minimum cost</a></h3>
-<img src="" width="500"/>
+<img src="https://github.com/projeto-de-algoritmos-2025/Grafos2_leetcode_ex/blob/main/Exercicio%203/1928.png" width="500"/>
 
 
 
