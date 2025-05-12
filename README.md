@@ -27,7 +27,7 @@ Tópicos
 | Número | Questão                                                                                                   | Dificuldade | Autor            |
 |--------|-----------------------------------------------------------------------------------------------------------|-------------|------------------|
 | 1      | [743. Network Delay Time](https://leetcode.com/problems/network-delay-time/description/) | Média       | Gabriel Scheidt  |
-| 2      |  | Média       | Gabriel Scheidt  |
+| 2      |  [1584.Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/)| Média       | Gabriel Scheidt  |
 | 3      | [1928. Minimum Cost to Reach Destination in Time](https://leetcode.com/problems/minimum-cost-to-reach-destination-in-time/description/) | Difícil     | Gabriel Scheidt  |
 | 4      | | Difícil     | Gabriel Scheidt  |
 
