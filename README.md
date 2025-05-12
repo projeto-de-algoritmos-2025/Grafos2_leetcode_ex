@@ -1,4 +1,4 @@
-# Grafos 1
+# Grafos 2
 
 ## Disciplina
 
@@ -18,9 +18,13 @@ Este trabalho foi desenvolvido para a disciplina **Projeto de Algoritmos**, mini
 
 Este repositório reúne as soluções desenvolvidas para os desafios práticos da **Lista 2** da disciplina de **Projeto de Algoritmos**, com foco no estudo de **Grafos**. As atividades foram resolvidas por meio da plataforma [LeetCode](https://leetcode.com/).
 
-A proposta desta lista é promover o domínio de conceitos essenciais incluindo:
+Cada exercício aborda um problema clássico ou aplicado envolvendo grafos, resolvido com algoritmos fundamentais como:
 
-Tópicos
+- **Dijkstra** – utilizado para encontrar o menor tempo ou menor custo entre vértices com restrições de caminho (ex: Network Delay Time, Minimum Cost to Reach Destination in Time).
+- **Prim** – aplicado para construir Árvores Geradoras Mínimas de forma eficiente, como em Min Cost to Connect All Points.
+- **Kruskal com Union-Find** – empregado para identificar a estrutura da MST e classificar arestas como críticas ou pseudo-críticas (ex: Find Critical and Pseudo-Critical Edges).
+
+As soluções estão organizadas por exercício, acompanhadas de seus respectivos códigos e capturas de tela com submissões bem-sucedidas na plataforma.
 
 ## Exercícios Resolvidos
 
